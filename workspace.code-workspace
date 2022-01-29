@@ -1,0 +1,26 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\.git"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\list 12\\scss"
+		},
+		{
+			"path": "..\\..\\..\\list 12\\Javascript"
+		},
+		{
+			"path": "..\\..\\..\\list 12\\Images"
+		},
+		{
+			"path": "..\\..\\..\\list 12\\Fonts"
+		},
+		{
+			"path": "..\\..\\..\\list 12\\Css"
+		}
+	],
+    "settings": {}
+}
