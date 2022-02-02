@@ -530,13 +530,7 @@ footer {
             margin-bottom: 20px;
         }
         & :nth-child(2) {
-            font-family: 'MontserratAlternates';
-            font-weight: 400;
-            font-style: normal;
-            font-size: 20px;
-            line-height: 130%;
-            color: #2E2401;
-            margin-bottom: 4px;
+            white-space: nowrap;
         }
         & ul {
             display: flex;
@@ -763,10 +757,11 @@ footer {
             display: flex;
             justify-content: space-between;
             flex-wrap: nowrap;
-            margin-bottom: 46px;
+            margin-bottom: 6px;
         }
         & ul p {
             font-size: 20px;
+            padding-bottom: 40px;
         }
         & :nth-child(5) {
             background: linear-gradient(189.03deg, #2D3FE2 9.57%, #071169 95.91%);
@@ -993,7 +988,7 @@ footer {
         & ul p {
             font-size: 30px;
             font-weight: normal;
-            padding-bottom: 7px;
+            padding-bottom: 40px;
         }
         & :nth-child(4) {
             display: none;
@@ -1168,7 +1163,7 @@ footer {
         width: 140px;
         height: 145px;
         right: 0px;
-        top: 84px;
+        top: 51px;
     }
     .logo__text {
         width: 100%;
@@ -1226,7 +1221,7 @@ footer {
     .picture {
         width: 140px;
         height: 145px;
-        top: 81px;
+        top: 51px;
     }
     .logo__text {
         width: 100%;
